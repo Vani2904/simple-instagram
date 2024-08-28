@@ -1,15 +1,7 @@
 header, hgroup, section, footer, aside, nav, article {
 	display: block;
 }
-html, body, form, div, span, h1, h2, h3, h4, h5, h6, p, a, img, ul, li {
-	padding: 0;
-	margin: 0;
-	border: 0 none
-}
-body {
-	background: #f8fafa;
-	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
+
 .auth {
 	border: 1px solid #3d8b5f;
     background-color: #6bb38a;
